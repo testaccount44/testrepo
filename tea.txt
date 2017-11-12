@@ -1,7 +1,12 @@
 1-bring tea
 2-bring water
 3-bring sugar
+<<<<<<< HEAD
 4-bring milk
-5-boil water and milk
-6-put some sugar in the cup
-7-put tea leaves in the cup
+5-boil some water
+6-put some tea leaves in the cup
+7-put some sugar in the cup
+8-pure some boiled water in the cup
+9-mix the mixture with a spoon
+
+
