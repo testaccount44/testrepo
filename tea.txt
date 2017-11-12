@@ -1,4 +1,10 @@
 1-bring tea
 2-bring water
 3-bring sugar
+4-boil some water
+5-put some tea leaves in the cup
+6-put some sugar in the cup
+7-pure some boiled water in the cup
+8-mix the mixture with a spoon
+
 
