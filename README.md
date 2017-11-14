@@ -40,7 +40,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 + Or pluses
 
 
-'''python 
+'''
 def hello():
     return "hello world"
 '''
